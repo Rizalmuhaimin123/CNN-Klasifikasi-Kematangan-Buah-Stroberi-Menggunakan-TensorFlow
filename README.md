@@ -1,0 +1,2 @@
+# Aplikasi-Android-Klasifikasi-Kematangan-Buah-Stroberi-Menggunakan-TensorFlow
+Aplikasi Android Klasifikasi Kematangan Buah Stroberi Menggunakan TensorFlow membantu petani dan konsumen menilai kematangan stroberi. Kematangan sangat memengaruhi kualitas dan rasa. Dengan teknologi AI, pengguna dapat mengunggah gambar dan mendapatkan klasifikasi akurat matang, setengah matang, atau mentah secara instan.
